@@ -52,12 +52,12 @@ in this code, under the app folder the following folders are then created:
 
 ```
 django_website/
-              management/
-                        __init__.py        (this file must be empty)
-                        commands/
-                                __init__.py        (this file must be empty)
-                                createsuperuserauto.py
-                                deletesuperuser.py
+    management/
+         __init__.py        (this file must be empty)
+        commands/
+             __init__.py        (this file must be empty)
+            createsuperuserauto.py
+            deletesuperuser.py
 
 ```
 
